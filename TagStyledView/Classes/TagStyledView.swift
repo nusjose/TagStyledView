@@ -80,7 +80,7 @@ public class TagStyledView: UIView {
     public var didSelectItemAt: ((IndexPath) -> Void)?
     
     private let layout = TagStyleFlowLayout()
-    private var collectionView: UICollectionView!
+    public var collectionView: UICollectionView!
     
     private var reseource: (cell: TagStyling, identifier: String)?
     
