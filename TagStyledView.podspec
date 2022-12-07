@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TagStyledView'
-  s.version          = '0.3.'
+  s.version          = '0.3.1'
   s.summary          = 'TagStyledView Class'
 
 # This description is used to generate tags and improve search results.
